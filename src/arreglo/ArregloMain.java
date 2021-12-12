@@ -1,12 +1,12 @@
 package arreglo;
 
-public class ArregloApp {
+public class ArregloMain {
 
 	public static void main(String[] args) {
 		
 		long[] arr;
 		arr = new long[20];
-		int numElems;					// tamaño del arreglo
+		int numElems;					// número de elementos del arreglo
 		int j;							// índice del arreglo
 		long buscarItem;				// item a buscar en el arreglo
 		
