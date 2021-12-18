@@ -89,7 +89,7 @@ public class ArregloClass {
 		
 		for(int j=0; j<numElems; j++) {				// recorremos todos los elementos del arreglo
 			
-			System.out.print(arr[j] + ""); 			// imprime cada elemento del arreglo en consola
+			System.out.print(arr[j] + " "); 			// imprime cada elemento del arreglo en consola
 		}
 		
 		System.out.println("");						// dejamos una linea en blanco
